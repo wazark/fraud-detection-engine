@@ -1,8 +1,9 @@
 # 🚨 Fraud Detection Engine
+> A mobile-first fraud detection system focused on real-time analysis, explainability, and user safety.
 
 Designed as a real-world mobile application to help users identify scams instantly.
 
-System designed to detect and explain digital fraud attempts such as phishing messages, scam links, and suspicious phone numbers.
+> A system designed to detect and explain digital fraud attempts such as phishing messages, scam links, and suspicious phone numbers.
 
 ⚠️ This project is currently in active development.
 
@@ -93,28 +94,27 @@ Do not click the link. Verify the source through official channels.
 
 ## 🧪 Prototype
 
-Run:
+### Example run:
 
+```bash
 python engine/simple_detector.py
 
 This prototype demonstrates:
-
-Basic heuristic detection
-Risk scoring logic
-Explainable results
-
+- Basic heuristic detection
+- Risk scoring logic
+- Explainable results
+```
 ---
 
 ## 🗺️ Roadmap
 
 The project evolves through multiple stages:
-
-MVP (local detection)
-Enhanced detection
-Backend integration
-Real-time protection
-AI-based detection
-Community intelligence
+- MVP (local detection)
+- Enhanced detection
+- Backend integration
+- Real-time protection
+- AI-based detection
+- Community intelligence
 
 👉 docs/ROADMAP.md
 
