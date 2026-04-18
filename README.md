@@ -98,12 +98,12 @@ Do not click the link. Verify the source through official channels.
 
 ```bash
 python engine/simple_detector.py
-
+```
 This prototype demonstrates:
 - Basic heuristic detection
 - Risk scoring logic
 - Explainable results
-```
+
 ---
 
 ## 🗺️ Roadmap
