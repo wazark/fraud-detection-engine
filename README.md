@@ -122,18 +122,19 @@ Community intelligence
 
 ## 🧩 Project Structure
 
+```bash
 fraud-detection-engine/
-├── docs/
-│   ├── OVERVIEW.md
-│   ├── ARCHITECTURE.md
-│   ├── FEATURES.md
-│   ├── ROADMAP.md
-│   └── SECURITY.md
-├── engine/
+├── 📂 docs/
+│   ├── 📄 OVERVIEW.md
+│   ├── 📄 ARCHITECTURE.md
+│   ├── 📄 FEATURES.md
+│   ├── 📄 ROADMAP.md
+│   └── 📄 SECURITY.md
+├── ⚙️ engine/
 │   └── simple_detector.py
-├── app/
-├── backend/
-└── assets/
+├── 📱 app/
+├── 🌐 backend/
+└── 🎨 assets/
 
 ---
 
